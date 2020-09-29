@@ -1,0 +1,12 @@
+body {
+  font-family: HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+#savebtn {
+  display: none;
+}
+
+input[type]:focus {
+  outline: none;
+  box-shadow: none !important;
+}
